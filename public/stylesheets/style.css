@@ -36,3 +36,8 @@ footer {
 nav span {
   margin: 0px 10px 0px 0px;
 }
+
+button, input {
+  padding: 5px;
+  margin: 5px;
+}
