@@ -46,3 +46,7 @@ button, input, select {
   color: #f61;
   font-size: smaller;
 }
+
+.right {
+  float: right;
+}
